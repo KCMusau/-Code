@@ -1,0 +1,17 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:#4C3549;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    color:white;
+}
+
+nav button{
+    background-color: #FF3E41;
+    color:white;
+    border-radius: 40px;
+    border-color: blueviolet;
+}
